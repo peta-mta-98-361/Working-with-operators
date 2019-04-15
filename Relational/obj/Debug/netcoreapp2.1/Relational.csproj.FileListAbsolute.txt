@@ -1,0 +1,10 @@
+C:\Users\mchittenden\source\repos\workingWithOperators\Relational\bin\Debug\netcoreapp2.1\Relational.deps.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Relational\bin\Debug\netcoreapp2.1\Relational.runtimeconfig.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Relational\bin\Debug\netcoreapp2.1\Relational.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Relational\bin\Debug\netcoreapp2.1\Relational.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\Relational\bin\Debug\netcoreapp2.1\Relational.pdb
+C:\Users\mchittenden\source\repos\workingWithOperators\Relational\obj\Debug\netcoreapp2.1\Relational.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\Relational\obj\Debug\netcoreapp2.1\Relational.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\Relational\obj\Debug\netcoreapp2.1\Relational.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\workingWithOperators\Relational\obj\Debug\netcoreapp2.1\Relational.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\Relational\obj\Debug\netcoreapp2.1\Relational.pdb

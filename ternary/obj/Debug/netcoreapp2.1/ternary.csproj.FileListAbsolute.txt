@@ -1,0 +1,10 @@
+C:\Users\mchittenden\source\repos\workingWithOperators\ternary\bin\Debug\netcoreapp2.1\ternary.deps.json
+C:\Users\mchittenden\source\repos\workingWithOperators\ternary\bin\Debug\netcoreapp2.1\ternary.runtimeconfig.json
+C:\Users\mchittenden\source\repos\workingWithOperators\ternary\bin\Debug\netcoreapp2.1\ternary.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\workingWithOperators\ternary\bin\Debug\netcoreapp2.1\ternary.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\ternary\bin\Debug\netcoreapp2.1\ternary.pdb
+C:\Users\mchittenden\source\repos\workingWithOperators\ternary\obj\Debug\netcoreapp2.1\ternary.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\ternary\obj\Debug\netcoreapp2.1\ternary.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\ternary\obj\Debug\netcoreapp2.1\ternary.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\workingWithOperators\ternary\obj\Debug\netcoreapp2.1\ternary.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\ternary\obj\Debug\netcoreapp2.1\ternary.pdb

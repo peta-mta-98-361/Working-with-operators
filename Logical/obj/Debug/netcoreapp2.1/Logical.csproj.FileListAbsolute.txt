@@ -1,0 +1,10 @@
+C:\Users\mchittenden\source\repos\workingWithOperators\Logical\obj\Debug\netcoreapp2.1\Logical.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\Logical\obj\Debug\netcoreapp2.1\Logical.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\Logical\obj\Debug\netcoreapp2.1\Logical.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\workingWithOperators\Logical\bin\Debug\netcoreapp2.1\Logical.deps.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Logical\bin\Debug\netcoreapp2.1\Logical.runtimeconfig.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Logical\bin\Debug\netcoreapp2.1\Logical.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Logical\bin\Debug\netcoreapp2.1\Logical.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\Logical\bin\Debug\netcoreapp2.1\Logical.pdb
+C:\Users\mchittenden\source\repos\workingWithOperators\Logical\obj\Debug\netcoreapp2.1\Logical.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\Logical\obj\Debug\netcoreapp2.1\Logical.pdb

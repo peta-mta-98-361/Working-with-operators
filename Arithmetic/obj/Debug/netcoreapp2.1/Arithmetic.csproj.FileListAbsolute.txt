@@ -1,0 +1,10 @@
+C:\Users\mchittenden\source\repos\workingWithOperators\Arithmetic\obj\Debug\netcoreapp2.1\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\Arithmetic\obj\Debug\netcoreapp2.1\Arithmetic.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\Arithmetic\obj\Debug\netcoreapp2.1\Arithmetic.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\workingWithOperators\Arithmetic\bin\Debug\netcoreapp2.1\Arithmetic.deps.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Arithmetic\bin\Debug\netcoreapp2.1\Arithmetic.runtimeconfig.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Arithmetic\bin\Debug\netcoreapp2.1\Arithmetic.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Arithmetic\bin\Debug\netcoreapp2.1\Arithmetic.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\Arithmetic\bin\Debug\netcoreapp2.1\Arithmetic.pdb
+C:\Users\mchittenden\source\repos\workingWithOperators\Arithmetic\obj\Debug\netcoreapp2.1\Arithmetic.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\Arithmetic\obj\Debug\netcoreapp2.1\Arithmetic.pdb

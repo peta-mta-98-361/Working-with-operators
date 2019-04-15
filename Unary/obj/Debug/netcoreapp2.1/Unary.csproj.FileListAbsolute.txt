@@ -1,0 +1,10 @@
+C:\Users\mchittenden\source\repos\workingWithOperators\Unary\bin\Debug\netcoreapp2.1\Unary.deps.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Unary\bin\Debug\netcoreapp2.1\Unary.runtimeconfig.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Unary\bin\Debug\netcoreapp2.1\Unary.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Unary\bin\Debug\netcoreapp2.1\Unary.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\Unary\bin\Debug\netcoreapp2.1\Unary.pdb
+C:\Users\mchittenden\source\repos\workingWithOperators\Unary\obj\Debug\netcoreapp2.1\Unary.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\Unary\obj\Debug\netcoreapp2.1\Unary.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\Unary\obj\Debug\netcoreapp2.1\Unary.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\workingWithOperators\Unary\obj\Debug\netcoreapp2.1\Unary.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\Unary\obj\Debug\netcoreapp2.1\Unary.pdb

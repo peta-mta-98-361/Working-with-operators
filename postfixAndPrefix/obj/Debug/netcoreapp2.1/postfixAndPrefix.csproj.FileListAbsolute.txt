@@ -1,0 +1,10 @@
+C:\Users\mchittenden\source\repos\workingWithOperators\postfixAndPrefix\bin\Debug\netcoreapp2.1\postfixAndPrefix.deps.json
+C:\Users\mchittenden\source\repos\workingWithOperators\postfixAndPrefix\bin\Debug\netcoreapp2.1\postfixAndPrefix.runtimeconfig.json
+C:\Users\mchittenden\source\repos\workingWithOperators\postfixAndPrefix\bin\Debug\netcoreapp2.1\postfixAndPrefix.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\workingWithOperators\postfixAndPrefix\bin\Debug\netcoreapp2.1\postfixAndPrefix.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\postfixAndPrefix\bin\Debug\netcoreapp2.1\postfixAndPrefix.pdb
+C:\Users\mchittenden\source\repos\workingWithOperators\postfixAndPrefix\obj\Debug\netcoreapp2.1\postfixAndPrefix.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\postfixAndPrefix\obj\Debug\netcoreapp2.1\postfixAndPrefix.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\postfixAndPrefix\obj\Debug\netcoreapp2.1\postfixAndPrefix.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\workingWithOperators\postfixAndPrefix\obj\Debug\netcoreapp2.1\postfixAndPrefix.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\postfixAndPrefix\obj\Debug\netcoreapp2.1\postfixAndPrefix.pdb

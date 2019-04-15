@@ -1,0 +1,11 @@
+C:\Users\mchittenden\source\repos\workingWithOperators\compound\bin\Debug\netcoreapp2.1\compound.deps.json
+C:\Users\mchittenden\source\repos\workingWithOperators\compound\bin\Debug\netcoreapp2.1\compound.runtimeconfig.json
+C:\Users\mchittenden\source\repos\workingWithOperators\compound\bin\Debug\netcoreapp2.1\compound.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\workingWithOperators\compound\bin\Debug\netcoreapp2.1\compound.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\compound\bin\Debug\netcoreapp2.1\compound.pdb
+C:\Users\mchittenden\source\repos\workingWithOperators\compound\obj\Debug\netcoreapp2.1\compound.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\compound\obj\Debug\netcoreapp2.1\compound.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\compound\obj\Debug\netcoreapp2.1\compound.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\workingWithOperators\compound\obj\Debug\netcoreapp2.1\compound.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\compound\obj\Debug\netcoreapp2.1\compound.pdb
+C:\Users\mchittenden\source\repos\workingWithOperators\compound\obj\Debug\netcoreapp2.1\compound.csprojAssemblyReference.cache

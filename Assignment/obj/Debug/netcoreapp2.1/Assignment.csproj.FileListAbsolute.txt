@@ -1,0 +1,10 @@
+C:\Users\mchittenden\source\repos\workingWithOperators\Assignment\bin\Debug\netcoreapp2.1\Assignment.deps.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\workingWithOperators\Assignment\bin\Debug\netcoreapp2.1\Assignment.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\Assignment\bin\Debug\netcoreapp2.1\Assignment.pdb
+C:\Users\mchittenden\source\repos\workingWithOperators\Assignment\obj\Debug\netcoreapp2.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\workingWithOperators\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\workingWithOperators\Assignment\obj\Debug\netcoreapp2.1\Assignment.dll
+C:\Users\mchittenden\source\repos\workingWithOperators\Assignment\obj\Debug\netcoreapp2.1\Assignment.pdb
